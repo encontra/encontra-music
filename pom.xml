@@ -16,7 +16,7 @@
 
      <modules>
          <module>encontra-music-core</module>
-         <module>encontra-music-descriptor</module>
+         <module>encontra-music-descriptors</module>
      </modules>
 
 </project>
